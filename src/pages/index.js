@@ -1,20 +1,20 @@
 import React from "react"
-import { Link } from "gatsby"
-
+n
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
+import CTALinks from "../components/cta-links"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+    <div style={{maxWidth: 600, margin: 'auto', textAlign: "center"}}>
+      <div style={{textAlign: "center", display:"inline-block"}}>
+        <img src="https://media.devlabs.academy/file/w_150/hafidz/profile-1.png" />
+      </div>
+      <h3 style={{margin: 0}}>Tengku Hafidz</h3>
+      <p>Welcome to the site of Tengku Hafidz.</p>
+      <CTALinks />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
 

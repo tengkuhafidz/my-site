@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Moments of Life",
+        "type": "Mobile App",
+        "description": "This is the description of Moments of Life",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://www.tech.gov.sg/products-and-services/moments-of-life/"
+            },
+            {
+                "name": "Download App",
+                "url": "https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en"
+            }
+        ]
+    },
+    {
+        "name": "DevLabs Academy",
+        "type": "Tech Courses",
+        "description": "This is the description of DevLabs Academy",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://devlabs.academy"
+            },
+            {
+                "name": "View Courses",
+                "url": "https://online.devlabs.academy"
+            }
+        ]
+    },
+    {
+        "name": "DevLabs Studio",
+        "type": "Web Agency",
+        "description": "This is the description of DevLabs Studio",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://devlabs.studio"
+            },
+            {
+                "name": "Book Service",
+                "url": "https://booking.devlabs.studio"
+            }
+        ]
+    },
+    {
+        "name": "Makan Rescue",
+        "type": "Mobile App",
+        "description": "This is the description of Makan Rescue",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://makanrescue.com"
+            },
+            {
+                "name": "Download App",
+                "url": "https://makan.at/app"
+            }
+        ]
+    },
+    {
+        "name": "MSociety",
+        "type": "Tech Interest Group",
+        "description": "This is the description of MSociety",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://msociety.tech"
+            },
+            {
+                "name": "Join Group",
+                "url": "https://t.me/joinchat/BI8Y3D319EHKRkrBbYAThQ"
+            }
+        ]
+    },
+    {
+        "name": "Mahram Check",
+        "type": "Web App",
+        "description": "This is the description of Mahram Check",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://mahramcheck.com"
+            }
+        ]
+    }
+]

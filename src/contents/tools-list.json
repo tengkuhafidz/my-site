@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Appsumo",
+        "type": "Lifetime Deals",
+        "description": "This is the description of Appsumo",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://appsumo.com"
+            }
+        ]
+    },
+    {
+        "name": "Stacksocial",
+        "type": "Lifetime Deals",
+        "description": "This is the description of DevLabs Academy",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://devlabs.academy"
+            }
+        ]
+    },
+    {
+        "name": "Weblium",
+        "type": "Web Builder",
+        "description": "This is the description of DevLabs Studio",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://devlabs.studio"
+            }
+        ]
+    },
+    {
+        "name": "Book Like a Boss",
+        "type": "Service",
+        "description": "This is the description of Makan Rescue",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://makanrescue.com"
+            }
+        ]
+    },
+    {
+        "name": "Invideo",
+        "type": "Content Videos",
+        "description": "This is the description of MSociety",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://msociety.tech"
+            }
+        ]
+    },
+    {
+        "name": "Offeo",
+        "type": "Short Video Creator",
+        "description": "This is the description of MSociety",
+        "links": [
+            {
+                "name": "Visit Website",
+                "url": "https://msociety.tech"
+            }
+        ]
+    }
+]
