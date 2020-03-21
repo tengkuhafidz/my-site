@@ -8,7 +8,8 @@ const CTALinks = () => {
                 links.map((link) => 
                     <div style={{marginBottom: 24}}>
                         <a href={link.url} target="_blank">
-                            <button className={`btn-block ${link.isHighlighted ? "background-warning" : null}`} style={{}}>
+                            <button 
+                                className={`btn-block ${link.isHighlighted ? "background-warning" : null}`}>
                                 {link.title}
                             </button>
                         </a>
