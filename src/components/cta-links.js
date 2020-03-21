@@ -2,7 +2,6 @@ import React from 'react'
 import links from '../contents/cta-links'
 
 const CTALinks = () => {
-
     return (
         <>
             {
