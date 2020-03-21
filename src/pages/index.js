@@ -1,5 +1,5 @@
 import React from "react"
-n
+
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import CTALinks from "../components/cta-links"
