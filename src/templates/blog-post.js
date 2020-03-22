@@ -8,7 +8,8 @@ export default ({ data }) => {
   return (
     <Layout>
         <SEO title={post.frontmatter.title} />
-        <div style={{maxWidth:"850px", margin: "0 auto", padding: '0 40px 40px 40px'}} className="shadow shadow-hover border card-body">
+        <div 
+          style={{maxWidth:"850px", margin: "0 auto", padding: '0 40px 40px 40px'}} className="shadow shadow-hover border card-body">
 
             <h1>{post.frontmatter.title}</h1>
             <h5 style={{ color: 'grey'}}>Written on {post.frontmatter.date}</h5>
