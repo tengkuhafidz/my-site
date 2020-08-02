@@ -1,5 +1,5 @@
+import { navigate } from "gatsby"
 import React from "react"
-import { Link, navigate } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -12,7 +12,7 @@ const BlogPage = ({data}) => {
                         <h4 className="card-title">{node.frontmatter.title}</h4>
                         <h5 className="card-subtitle">{node.frontmatter.date}</h5>
                         <p className="card-text">{node.excerpt}</p>
-                        <button onClick={() => navigate(internalLink)}> Read More </button>
+                        <button onClick={() => navigate(node.fields.slug)}> Read More </button>
                     </div>
                 </div>
             </div>
